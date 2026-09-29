@@ -248,7 +248,7 @@
     <g transform="translate(112 92)">
       <rect width="272" height="38" rx="19" fill="#27d9ff" fill-opacity="0.1" stroke="#27d9ff" stroke-opacity="0.55"/>
       <circle cx="22" cy="19" r="5" fill="#27d9ff" filter="url(#softGlow)"/>
-      <text x="39" y="24" fill="#bcefff" font-size="13" font-weight="700" letter-spacing="2.3">NATIVE CAD FOR MAC</text>
+      <text x="39" y="24" fill="#bcefff" font-size="13" font-weight="700" letter-spacing="2.3">Open Source for macOS</text>
     </g>
     <text x="106" y="266" fill="#ffffff" font-size="116" font-weight="600" letter-spacing="-4">Your drawings.</text>
     <text x="106" y="382" fill="#ffffff" font-size="116" font-weight="600" letter-spacing="-4">At Mac speed.</text>
